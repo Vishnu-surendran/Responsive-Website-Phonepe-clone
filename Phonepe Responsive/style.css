@@ -1,0 +1,104 @@
+.nav-item{
+  padding-left: 50px;
+}
+.container-fluid{
+  position: sticky;
+}
+.carousel-caption{
+  font-size: 3.625rem;
+  font-weight: 500;
+ font-family:  PhonePeSans,sans-serif,Helvetica,Arial;
+ 
+  position: absolute;
+  top: 1%;
+  left: 10%;
+  width: 60%;
+  height:60%;
+  text-align: start;
+}
+#button2{
+position: absolute;
+top: 74%;
+left:18%;
+padding-left: 3%;
+padding-right: 3%;
+padding-bottom: 1%;
+padding-top: 1%;
+}
+
+
+.plus{
+  color: #4cdeff;
+}
+h2,h3{
+  font-size: 1.2rem;
+  color: #c2a6ff;
+}
+h3{
+  font-size: medium;
+}
+.heading1{
+  
+    font-weight: 500;
+    line-height: 1.33;
+    color: #361968;
+}
+#container2{
+  border: none;
+}
+
+.btn{
+padding-left: 6%;
+padding-right: 6%;
+padding-bottom: 1%;
+padding-top: 1%;
+}
+a{
+  text-decoration: none;
+}
+.content{
+  font-weight: 200;
+  color:#333;
+}
+.footercontent2{
+  color: #6739b7;;
+}
+.footercontent{
+  font-weight: 500;
+  color: black;
+}
+.footer1{
+  height: 150%;
+color: white;
+  background-color: #7962bd;
+}
+.footercolumn{
+  border: none;
+  background-color: #7962bd;
+}
+.footbutton{
+  margin-top: 10px;
+  width: 150px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.foothead{
+  color: black;
+}
+.footerlinks{
+  color: black;
+  font-weight: 200;
+}
+.footerimage{
+  padding-left: 20px;
+}
+.footbutton2{
+  margin-top: 10px;
+  width: 250px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
